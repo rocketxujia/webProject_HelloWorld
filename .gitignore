@@ -1,6 +1,7 @@
 *.class
 /.idea
 *.iml
+*.war
 # Package Files #
 *.db
 
